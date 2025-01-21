@@ -1,6 +1,6 @@
 ---
 name: 新規issue
-about: 新規issueの作成
+about: issue作成
 title: ''
 labels: ''
 assignees: ''
