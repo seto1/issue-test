@@ -1,6 +1,6 @@
 ---
 name: issueテンプレート
-about: issueテンプレート
+about: テンプレートに沿ったissueの作成をお願いします。
 title: ''
 labels: ''
 assignees: ''
