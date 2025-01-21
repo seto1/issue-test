@@ -1,6 +1,6 @@
 ---
 name: issueテンプレート
-about: ''
+about: issueテンプレート
 title: ''
 labels: ''
 assignees: ''
