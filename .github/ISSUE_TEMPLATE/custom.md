@@ -1,7 +1,7 @@
 ---
 name: 新規issue
 about: issue作成
-title: '【】 '
+title: '【】'
 labels: ''
 assignees: ''
 
